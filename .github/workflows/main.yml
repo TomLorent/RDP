@@ -1,0 +1,2 @@
+- name: Deploy Algo Wiregaurd VPN Github Action
+  uses: chrisjsimpson/algo-vpn-github-action@v0.1
